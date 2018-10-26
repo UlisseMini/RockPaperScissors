@@ -24,7 +24,7 @@ I HAS A ROCK ITZ "rock"
 I HAS A PAPER ITZ "paper"
 I HAS A SCISSOR ITZ "scissor"
 
-BTW Checks every move (i think)
+BTW Some moves, not everyhting because i'm lazy
 BTW Theres a glitch where it will not print anything if one player enters a valid move but the other does not
 BOTH SAEM MOVE AN MOVE2, O RLY?
   YA RLY
@@ -34,17 +34,24 @@ BOTH SAEM MOVE AN MOVE2, O RLY?
       YA RLY
       VISIBLE "U DED PLAYAR 1"
     OIC
+
   MEBBE BOTH SAEM MOVE AN ROCK 
     BOTH SAEM MOVE2 AN PAPER, O RLY?
       YA RLY
         VISIBLE "U DED PLAYAR 1"
-      MEBBE BOTH SAEM MOVE2 AN SCISSOR
-        VISIBLE "U DED PLAYAR 2"
-    OIC
-   MEBBE BOTH SAEM MOVE AN PAPER, O RLY?
-    BOTH SAEM MOVE2 AN ROCK, O RLY?
+      OIC
+  MEBBE BOTH SAEM MOVE2 AN SCISSOR
+    BOTH SAEM MOVE AN ROCK, O RLY?
       YA RLY
         VISIBLE "U DED PLAYAR 2"
+      OIC
+
+BTW   BOTH SAEM MOVE AN PAPER, O RLY?
+BTW    BOTH SAEM MOVE2 AN ROCK, O RLY?
+BTW      YA RLY
+BTW        VISIBLE "U DED PLAYAR 2"
+BTW      OIC
+
    MEBBE BOTH SAEM MOVE AN ROCK
     BOTH SAEM MOVE2 AN PAPER, O RLY?
       YA RLY
